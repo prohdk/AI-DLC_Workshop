@@ -1,0 +1,78 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "save": "Save",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  },
+  "auth": {
+    "storeId": "Store ID",
+    "tableNumber": "Table Number",
+    "password": "Password",
+    "username": "Username",
+    "login": "Login",
+    "logout": "Logout",
+    "loginFailed": "Login failed"
+  },
+  "menu": {
+    "title": "Menu",
+    "allCategories": "All",
+    "addToCart": "Add",
+    "noItems": "No menu items",
+    "name": "Name",
+    "price": "Price",
+    "description": "Description",
+    "imageUrl": "Image URL",
+    "category": "Category",
+    "categoryName": "Category Name",
+    "addCategory": "Add Category",
+    "addMenuItem": "Add Menu Item",
+    "editMenuItem": "Edit Menu Item",
+    "deleteConfirm": "Are you sure you want to delete?",
+    "management": "Menu Management"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "orderButton": "Place Order",
+    "clearAll": "Clear All",
+    "items": "{{count}} items"
+  },
+  "order": {
+    "confirm": "Order Confirmation",
+    "confirmButton": "Confirm Order",
+    "back": "Go Back",
+    "success": "Order placed successfully!",
+    "orderNumber": "Order Number",
+    "redirecting": "Redirecting to menu in {{seconds}}s",
+    "history": "Order History",
+    "noOrders": "No orders yet",
+    "status": {
+      "pending": "Pending",
+      "preparing": "Preparing",
+      "completed": "Completed"
+    }
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "tables": "Table Management",
+    "menuManagement": "Menu Management",
+    "tableNumber": "Table {{number}}",
+    "totalAmount": "Total Amount",
+    "orderCount": "Orders",
+    "setupTable": "Add Table",
+    "completeSession": "Complete Session",
+    "completeConfirm": "Are you sure you want to complete this session?",
+    "deleteOrder": "Delete Order",
+    "deleteOrderConfirm": "Are you sure you want to delete this order?",
+    "orderHistory": "Order History",
+    "noHistory": "No history",
+    "newOrder": "New Order!",
+    "noActiveSession": "No active session",
+    "dateFilter": "Date Filter"
+  }
+}
